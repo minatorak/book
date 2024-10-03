@@ -49,3 +49,4 @@ Applications of Rust:
 * [The Redox Operating System](https://doc.redox-os.org/book/)
 * [Thesus OS](https://theseus-os.github.io/Theseus/book/index.html)
 * [The Zebra Book](https://zebra.zfnd.org/)
+* [Slack Morphism for Rust](https://slack-rust.abdolence.dev/intro.html) Slack Morphism is a modern client library for Slack Web/Events API/Sockets Mode and Block Kit.
